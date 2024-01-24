@@ -7,5 +7,5 @@ toaster.show_toast(
     "Notificação","Olá Iago bem vindo ao Python :)",
     threaded=True,
     icon_path=None,
-    duration=3 #segundos
+    duration=5 #segundos
 )
